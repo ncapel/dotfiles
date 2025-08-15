@@ -1,0 +1,6 @@
+@theme "catppuccin-default"
+configuration {
+    show-icons: true;
+    font: "FiraCode Nerd Font Bold 14";
+}
+
